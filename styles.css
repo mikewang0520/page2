@@ -9,6 +9,7 @@
 }
 
 .far {
+  cursor: url("enter.png"), auto;
   position: absolute;
   height: 100%;
   width: auto;
